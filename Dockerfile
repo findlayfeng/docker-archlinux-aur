@@ -1,5 +1,5 @@
 # Arch Linux base docker container with pacaur for AUR access
-FROM greyltc/archlinux
+FROM archlinux/base
 MAINTAINER Grey Christoforo <grey@christoforo.net>
 
 # setup aur access for a new user "docker"
